@@ -17,9 +17,9 @@ This project utilizes the `getUserMedia` API to access your microphone and captu
 
 To run the project locally on your machine, follow these simple steps:
 
-1. Clone the repository to your local machine
+1. Clone the repository to your local machine.
 
-2. Navigate to the project directory:
+2. Navigate to the project directory.
 
 3. Open the `index.html` file in your preferred web browser.
 
