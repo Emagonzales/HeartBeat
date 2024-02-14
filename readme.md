@@ -4,6 +4,8 @@ Welcome to the Heartbeat Visualization project! 🎉
 
 This project is a fun and interactive way to visualize the beat of noises captured by your microphone using HTML, CSS, and JavaScript.
 
+[Preview](https://emagonzales.github.io/HeartBeat/)
+
 ## Overview
 
 This project utilizes the `getUserMedia` API to access your microphone and capture audio input. The captured audio is then processed in real-time using the Web Audio API to analyze its frequency components. Based on the frequency data, a heart-shaped element on the webpage pulsates and scales dynamically, syncing with the beat of the captured noises.
